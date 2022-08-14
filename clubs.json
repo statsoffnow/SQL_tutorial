@@ -1,0 +1,92 @@
+[
+	{
+		"ID" : 1,
+		"club" : "ManCity",
+		"won" : 27,
+		"lost" : 6,
+		"scored" : 83,
+		"pass" : 669,
+		"value" : 708.30
+	},
+	{
+		"ID" : 2,
+		"club" : "ManU",
+		"won" : 21,
+		"lost" : 6,
+		"scored" : 73,
+		"pass" : 544,
+		"value" : 999.09
+	},
+	{
+		"ID" : 3,
+		"club" : "Leic",
+		"won" : 20,
+		"lost" : 12,
+		"scored" : 68,
+		"pass" : 508,
+		"value" : 511.50
+	},
+	{
+		"ID" : 4,
+		"club" : "Fulham",
+		"won" : 5,
+		"lost" : 20,
+		"scored" : 27,
+		"pass" : 460,
+		"value" : 187.50
+	},
+	{
+		"ID" : 5,
+		"club" : "Leeds",
+		"won" : 18,
+		"lost" : 15,
+		"scored" : 62,
+		"pass" : 482,
+		"value" : 278.80
+	},
+	{
+		"ID" : 6,
+		"club" : "CrystalPL",
+		"won" : 12,
+		"lost" : 18,
+		"scored" : 41,
+		"pass" : 362,
+		"value" : 274.80
+	},
+	{
+		"ID" : 7,
+		"club" : "Brighton",
+		"won" : 9,
+		"lost" : 15,
+		"scored" : 40,
+		"pass" : 472,
+		"value" : 274.90
+	},
+	{
+		"ID" : 8,
+		"club" : "Arsenal",
+		"won" : 18,
+		"lost" : 13,
+		"scored" : 55,
+		"pass" : 524,
+		"value" : 697.70
+	},
+	{
+		"ID" : 9,
+		"club" : "Tottenham",
+		"won" : 18,
+		"lost" : 12,
+		"scored" : 68,
+		"pass" : 496,
+		"value" : 749.30
+	},
+	{
+		"ID" : 10,
+		"club" : "Everton",
+		"won" : 17,
+		"lost" : 13,
+		"scored" : 47,
+		"pass" : 446,
+		"value" : 380.70
+	}
+]
